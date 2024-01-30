@@ -1,7 +1,7 @@
 import React from "react"
 import "./App.css"
 import gsap from "gsap"
-import GSAP from "./Images/gsap.jpeg"
+import GSAP from "./Images/GSAP.jpeg"
 import { useRef, useEffect } from "react"
 
 const App = () => {
